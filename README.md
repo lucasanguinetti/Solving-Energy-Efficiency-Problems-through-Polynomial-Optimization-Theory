@@ -1,5 +1,3 @@
-# Energy-Efficiency-Maximization-through-Polynomial-Optimization
-
 # Solving Energy Efficiency Problems through Polynomial Optimization Theory
 
 This is a code package is related to the follow scientific article:
