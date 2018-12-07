@@ -1,6 +1,6 @@
 # Solving Energy Efficiency Problems through Polynomial Optimization Theory
 
-This is a code package is related to the follow scientific article:
+This is the code package related to the follow scientific article:
 Andrea Pizzo, Alessio Zappone and Luca Sanguinetti, "Solving Energy Efficiency Problems through Polynomial Optimization Theory," IEEE Signal Processing Letters, Submitted to.
 The package contains a simulation environment, based on Matlab, that reproduces all the numerical results and figures in the article. We encourage you to also perform reproducible research!
 
